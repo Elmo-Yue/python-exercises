@@ -1,5 +1,3 @@
-
-
 def get_permutations(sequence):
     '''
     Enumerate all permutations of a given string
